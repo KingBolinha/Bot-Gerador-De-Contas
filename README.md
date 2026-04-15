@@ -1,6 +1,6 @@
-# Rockstar Generator Bot
+# Wolf Store Gerador
 
-Bot Discord feito do zero para gerar contas Rockstar autorizadas por comando e por painel.
+Bot Discord para painel e entrega de contas Rockstar.
 
 ## Recursos
 
@@ -8,7 +8,7 @@ Bot Discord feito do zero para gerar contas Rockstar autorizadas por comando e p
 - Slash command `/painelgenpremium` para abrir o painel profissional.
 - Painel profissional com botoes `Gerar Rockstar`, `Adicionar contas` e `Ver estoque`.
 - O botao `Ver estoque` envia a lista completa das contas na DM do dono.
-- Estoque simples em `data/accounts/rockstar.txt`.
+- Estoque em `data/accounts/rockstar.txt`.
 - Comando `.add rockstar email:senha` para administradores adicionarem contas.
 - Comando `.stock rockstar` para consultar o estoque.
 - Log de geracoes em `data/logs/generated-rockstar.log`.
@@ -56,5 +56,3 @@ No Discord:
 .add rockstar email:senha
 .stock rockstar
 ```
-
-Use apenas contas que voce tem autorizacao para distribuir.

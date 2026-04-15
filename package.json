@@ -1,7 +1,7 @@
 {
   "name": "rockstar-generator-bot",
   "version": "1.0.0",
-  "description": "Bot Discord para geracao controlada de contas Rockstar autorizadas.",
+  "description": "Bot Discord para painel e entrega de contas Rockstar.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
