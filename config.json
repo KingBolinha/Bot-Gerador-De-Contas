@@ -1,0 +1,19 @@
+{
+  "storeName": "Wolf Store Gerador",
+  "author": "@heineck_",
+  "accountImageUrl": "https://media.discordapp.net/attachments/1326580051205947513/1329584298533064754/Wolf_Store_-_LOGOTIPO.jpg?ex=69df6e1f&is=69de1c9f&hm=c5f5221eb8d3bc3053adfa72db27ca45e07825b1cdbf348e2e4f3ae782ad0e6b&=&format=webp&width=940&height=940",
+  "prefix": ".",
+  "colors": {
+    "success": 5763719,
+    "error": 15548997,
+    "panel": 5793266,
+    "dm": 15256115
+  },
+  "services": {
+    "rockstar": {
+      "displayName": "Rockstar",
+      "stockFile": "data/accounts/rockstar.txt",
+      "generatedLogFile": "data/logs/generated-rockstar.log"
+    }
+  }
+}
